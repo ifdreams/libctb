@@ -14,7 +14,7 @@
 INSTALL ?= install
 
 # Location where the package is installed by 'make install' 
-prefix ?= /usr/local
+prefix ?= /usr
 
 # Destination root (/ is used if empty) 
 DESTDIR ?= 
