@@ -32,7 +32,7 @@ LINK_DLL_FLAGS ?= -shared
 #CXX = g++
 
 # Standard flags for C++ 
-CXXFLAGS ?= 
+#CXXFLAGS ?= 
 
 # Standard preprocessor flags (common for CC and CXX) 
 #CPPFLAGS ?= 
