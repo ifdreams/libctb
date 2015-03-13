@@ -29,7 +29,7 @@ RANLIB ?= ranlib
 LINK_DLL_FLAGS ?= -shared
 
 # C++ compiler 
-CXX = g++
+#CXX = g++
 
 # Standard flags for C++ 
 CXXFLAGS ?= 
