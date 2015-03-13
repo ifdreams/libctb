@@ -20,10 +20,10 @@ prefix ?= /usr
 DESTDIR ?= 
 
 #  
-AR ?= ar
+#AR ?= ar
 
 #  
-RANLIB ?= ranlib
+#RANLIB ?= ranlib
 
 # Compiler flags to link shared library 
 LINK_DLL_FLAGS ?= -shared
@@ -35,10 +35,10 @@ LINK_DLL_FLAGS ?= -shared
 CXXFLAGS ?= 
 
 # Standard preprocessor flags (common for CC and CXX) 
-CPPFLAGS ?= 
+#CPPFLAGS ?= 
 
 # Standard linker flags 
-LDFLAGS ?= 
+#LDFLAGS ?= 
 
 # Set to 1 to build debug version [0,1]
 DEBUG ?= 0
